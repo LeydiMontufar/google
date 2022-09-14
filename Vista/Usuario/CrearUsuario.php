@@ -16,11 +16,13 @@
       crossorigin="anonymous"
     />
   </head>
+  <?php include('index.php'); ?>
   <body class="bg-info bg-light d-flex justify-content-center align-items-center vh-100">
     <div
       class="bg-secondary.bg-gradient p-5 rounded-5 text-secondary shadow"
       style="width: 25rem"
     >
+    
       <div class="text-center fs-1 fw-bold">Registro</div>
       <div class="input-group mt-4">
         <div class="input-group-text btn btn-dark">
