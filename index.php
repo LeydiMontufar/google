@@ -39,6 +39,9 @@
         <li class="nav-item dropdown">
           <a class="nav-link text-white" href="Vista/Producto/ListaProducto.php">LISTA PRODUCTO</a>
         </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link text-white" href="pepe.php">pepe</a>
+        </li>
       </ul>
       <form class="d-flex dropdown">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
