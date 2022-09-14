@@ -7,7 +7,7 @@ switch (@parse_url($_SERVER['REQUEST_URI'])['path']) {
         require '/Vista/Usuario/CrearUsuario.php';
         break;
     case '/pepe':
-        require '/pepe.php';
+        require 'pepe.php';
         break;
     default:
         http_response_code(404);
