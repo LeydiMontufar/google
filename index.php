@@ -40,7 +40,7 @@
           <a class="nav-link text-white" href="Vista/Producto/ListaProducto.php">LISTA PRODUCTO</a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link text-white" href="pepe.php">pepe</a>
+          <a class="nav-link text-white" href="pepe">pepe</a>
         </li>
       </ul>
       <form class="d-flex dropdown">
